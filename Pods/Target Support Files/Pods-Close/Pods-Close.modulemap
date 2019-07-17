@@ -1,0 +1,6 @@
+framework module Pods_Close {
+  umbrella header "Pods-Close-umbrella.h"
+
+  export *
+  module * { export * }
+}
